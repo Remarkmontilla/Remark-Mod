@@ -12,7 +12,7 @@ A Venge mod that lets you have the best competitive Venge experience.
 
 # Installation
 
-1. Download The Files : https://github.com/Remarkmontilla/Mark-Mod
+1. Download The Files
     
 2. Download and open Mark Mod.zip
     
